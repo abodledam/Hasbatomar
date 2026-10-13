@@ -1,0 +1,6 @@
+{
+  "name": "حصاد - Hasad",
+  "description": "تطبيق الحسابات الذكي لإدارة الدخل والمصروفات والتحويلات محلياً بدون إنترنت مع مساعد استخراج الذكاء الاصطناعي وتصدير تقارير PDF",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
